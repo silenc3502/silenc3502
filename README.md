@@ -4,7 +4,7 @@
 ## Vision
 We want to lead the 4th industrial revolution with our mechatronics solutions.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
+![profile views](https://komarev.com/ghpvc/?username=silenc3502&color=blue)  
 
 ## My Skill
 
