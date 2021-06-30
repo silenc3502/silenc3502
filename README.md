@@ -11,7 +11,7 @@ We want to lead the 4th industrial revolution with our mechatronics solutions.
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-3766AB?style=flat-square&logo=Go&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-00ADD8?style=flat-square&logoColor=white)
 ![HLS](https://img.shields.io/badge/HLS-00ADD8?style=flat-square&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-00ADD8?style=flat-square&logo=Java&logoColor=white)
