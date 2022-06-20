@@ -6,6 +6,11 @@ We want to lead the 4th industrial revolution with our mechatronics solutions.
 
 ![profile views](https://komarev.com/ghpvc/?username=silenc3502&color=blue)  
 
+## 에디로봇아카데미
+
+카페주소: https://cafe.naver.com/eddicorp  
+유튜브: https://www.youtube.com/channel/UCaYlgiL6pS2N5pxnXXd_6-w  
+
 ## My Skill
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
