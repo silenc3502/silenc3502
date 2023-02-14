@@ -13,6 +13,8 @@ We want to lead the 4th industrial revolution with our mechatronics solutions.
 
 ## My Skill
 
+<div>
+
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-3766AB?style=flat-square&logo=Go&logoColor=white"/>
@@ -41,6 +43,8 @@ We want to lead the 4th industrial revolution with our mechatronics solutions.
 <img src="https://img.shields.io/badge/GitHubDesktop-662a81?style=for-the-badge&logo=GitHub&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=ffffff"/>
+  
+</div>
 
 ### ✨ Github stats
 ![Sanghoon's Github stats](https://github-readme-stats.vercel.app/api?username=silenc3502&theme=chartreuse-dark&show_icons=true&count_private=true)
