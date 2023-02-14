@@ -29,6 +29,9 @@ We want to lead the 4th industrial revolution with our mechatronics solutions.
 ![Sanghoon's Github stats](https://github-readme-stats.vercel.app/api?username=silenc3502&theme=chartreuse-dark&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=silenc3502&theme=chartreuse-dark)
 
+
+![trophy](https://github-profile-trophy.vercel.app/?username=silenc3502&theme=gitdimmed&column=7)
+
 <!--
 **silenc3502/silenc3502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
