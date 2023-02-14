@@ -15,12 +15,12 @@ We want to lead the 4th industrial revolution with our mechatronics solutions.
 
 <div>
 
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=Go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Verilog-00ADD8?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/HLS-00ADD8?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-a3a3a3?style=for-the-badge&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-a3a3a3?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-a3a3a3?style=for-the-badge&logo=Go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-a3a3a3?style=for-the-badge&logo=Go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/HLS-000000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-00ADD8?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firmware-00ADD8?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux_Kernel-00ADD8?style=for-the-badge&logo=Linux&logoColor=white"/>
