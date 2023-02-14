@@ -22,7 +22,7 @@ We want to lead the 4th industrial revolution with our mechatronics solutions.
 <img src="https://img.shields.io/badge/HLS-00ADD8?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-00ADD8?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firmware-00ADD8?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux\_Kernel-00ADD8?style=for-the-badge&logo=Linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux_Kernel-00ADD8?style=for-the-badge&logo=Linux&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Java-a80022?style=for-the-badge&logo=Java&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=ffffff"/>
