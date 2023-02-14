@@ -23,7 +23,27 @@ We want to lead the 4th industrial revolution with our mechatronics solutions.
 ![Spring](https://img.shields.io/badge/Spring-00ADD8?style=flat-square&logo=Spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-00ADD8?style=flat-square&logo=JavaScript&logoColor=white)
 ![Firmware](https://img.shields.io/badge/Firmware-00ADD8?style=flat-square&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux\_Kernel-00ADD8?style=flat-square&logo=Linux&logoColor=white)
+<img src="https://img.shields.io/badge/Linux\_Kernel-00ADD8?style=flat-square&logo=Linux&logoColor=white">
+
+<img src="https://img.shields.io/badge/Java-a80022?style=for-the-badge&logo=Java&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Spring Boot-f4d159?style=for-the-badge&logo=Spring Boot&logoColor=181717"/>
+<img src="https://img.shields.io/badge/JPA-9916ec?style=for-the-badge&logo=JPA&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=ffffff"/> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff"/>
+<br/> 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=ffffff"/>
+<br/> 
+<img src="https://img.shields.io/badge/GitHub-a3a3a3?style=for-the-badge&logo=GitHub&logoColor=181717"/>
+<img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/GitHubDesktop-662a81?style=for-the-badge&logo=GitHub&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=ffffff"/>
 
 ### ✨ Github stats
 ![Sanghoon's Github stats](https://github-readme-stats.vercel.app/api?username=silenc3502&theme=chartreuse-dark&show_icons=true&count_private=true)
