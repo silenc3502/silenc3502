@@ -13,17 +13,14 @@ We want to lead the 4th industrial revolution with our mechatronics solutions.
 
 ## My Skill
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-3766AB?style=flat-square&logo=Go&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-00ADD8?style=flat-square&logoColor=white)
-![HLS](https://img.shields.io/badge/HLS-00ADD8?style=flat-square&logoColor=white)
-![Java](https://img.shields.io/badge/Java-00ADD8?style=flat-square&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-00ADD8?style=flat-square&logo=Spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-00ADD8?style=flat-square&logo=JavaScript&logoColor=white)
-![Firmware](https://img.shields.io/badge/Firmware-00ADD8?style=flat-square&logoColor=white)
-<img src="https://img.shields.io/badge/Linux\_Kernel-00ADD8?style=flat-square&logo=Linux&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-3766AB?style=flat-square&logo=Go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Verilog-00ADD8?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/HLS-00ADD8?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-00ADD8?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firmware-00ADD8?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux\_Kernel-00ADD8?style=flat-square&logo=Linux&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Java-a80022?style=for-the-badge&logo=Java&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=ffffff"/>
