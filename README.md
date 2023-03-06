@@ -52,7 +52,7 @@ We want to lead the 4th industrial revolution with our mechatronics solutions.
 
 <div align="center">
 
-![Sanghoon's Github stats](https://github-readme-stats.vercel.app/api?username=silenc3502&theme=chartreuse-dark&show_icons=true&count_private=true)
+![Sanghoon's Github stats](https://github-readme-stats.vercel.app/api?username=silenc3502&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=silenc3502&theme=chartreuse-dark)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=silenc3502&theme=gitdimmed&column=7)
